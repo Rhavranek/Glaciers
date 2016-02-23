@@ -75,7 +75,7 @@ plot(x,z,'k','linewidth',1.5)
       axis ([0,10000,0, 1500])
       xlabel('Distance (m)','fontname','arial','fontsize',21)
       ylabel('Height (m)','fontname','arial','fontsize',21)
-     pause(0.1)
+     pause(0.2)
     
      
 end
