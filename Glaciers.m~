@@ -37,7 +37,7 @@ A=2.1e-16; %pa
 ELA=800;
 
 %erosion:
-e=0.02; %erosion constant 
+e=0.001; %erosion constant 
 erosion=e*uslide; %m/yr
 
 %% RUN
